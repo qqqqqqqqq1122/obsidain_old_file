@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85c1c548dbfc8820",
@@ -217,10 +216,10 @@
   },
   "active": "5a53762fee1d15eb",
   "lastOpenFiles": [
-    "Pasted image 20260128090345.png",
-    "论文3.tex.md",
-    "test.tex.md",
     "欢迎.md",
+    "论文3.tex.md",
+    "Pasted image 20260128090345.png",
+    "test.tex.md",
     "README.md"
   ]
 }
